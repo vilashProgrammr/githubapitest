@@ -1,2 +1,1 @@
-file1.txt contents
-this is file1
+this is new contents
